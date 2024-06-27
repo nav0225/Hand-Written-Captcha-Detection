@@ -1,0 +1,9 @@
+Dataset - A-z (english alphabest)
+          emoji :-
+                Checkmark = 1
+                Cloud = 2
+                Croissant = 3
+                Heart = 4
+                Laugh = 5
+                Smile = 6
+                Sun = 7
